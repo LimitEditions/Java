@@ -1,0 +1,18 @@
+{
+  "name": "seminar_2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./float.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alex_math_package": "^1.0.0",
+    "colors": "^1.4.0",
+    "number-precision": "^1.6.0",
+    "uuid": "^9.0.1"
+  },
+  "description": ""
+}
