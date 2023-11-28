@@ -1,0 +1,42 @@
+.conteiner{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.name-product{
+    width: 150px;
+}
+
+.add-comment{
+    padding-top: 5px;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+}
+
+.add-btn{
+    width: 150px;
+}
+
+a{
+    margin-top: 20px;
+}
+
+.page{
+    text-decoration: none;
+    color:darkcyan;
+    pointer-events: fill;
+}
+
+.text {
+    border:1px solid rebeccapurple;
+    width: 250px;
+}
+.key:hover{
+    color: blueviolet;
+}
+
+.boxItem{
+    text-decoration: none;
+}
